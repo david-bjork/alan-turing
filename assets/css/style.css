@@ -15,3 +15,8 @@ body {
     text-align: right;
     padding-right: 2.5%;
 }
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
