@@ -27,3 +27,9 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+
+#alan-image {
+    height: 300px;
+    width: 50%;
+    background: url('../images/alan_turing_photo.jpg') no-repeat;
+}
